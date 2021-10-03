@@ -1,4 +1,6 @@
 ---
+refresh_interval: 10 # seconds
 urls:
-  - https://www.bhphotovideo.com/c/product/1602755-REG/asus_dualrtx30708g_geforce_rtx_3070_8g.html
+  - https://www.ldlc.com/it-it/scheda/PB30603060.html
+  - https://www.ldlc.com/it-it/scheda/PB00438229.html
 ...
